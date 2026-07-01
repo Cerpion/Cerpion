@@ -13,7 +13,6 @@
 - Passionate about writing clean, maintainable, and scalable code using SOLID principles and software architecture. 
 - Currently developing my first commercial indie game while continuously improving my skills in AI, shaders, rendering, and game systems.  
 
-
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=Cerpion&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
