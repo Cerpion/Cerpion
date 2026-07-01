@@ -4,7 +4,19 @@
   <img src="https://streak-stats.demolab.com?user=Cerpion&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Cerpion's GitHub Streak" />
 </p>
 
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Cerpion&show_icons=true&hide_border=true&bg_color=2D1B14&title_color=F57C00&icon_color=F57C00&text_color=F5E6C8&border_color=4E342E" />
+</p>
 
+<p align='center'>
+<img src="https://streak-stats.demolab.com?user=Cerpion&background=2D1B14&ring=F57C00&fire=F57C00&currStreakLabel=F57C00&sideNums=F5E6C8&sideLabels=F5E6C8&dates=C7B299&border=4E342E"/>
+</p>
+
+
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerpion&layout=compact&bg_color=2D1B14&title_color=F57C00&text_color=F5E6C8&border_color=4E342E"/>
+</p>
 
 ---
 
