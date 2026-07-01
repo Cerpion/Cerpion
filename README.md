@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!! ᕙ(`▿´)ᕗ</h1>
 
 <p align='center'>
-  <img src="https://streak-stats.demolab.com?user=Cerpion&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Cerpion&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Cerpion's GitHub Streak" />
 </p>
 
 
