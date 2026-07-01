@@ -1,21 +1,18 @@
-<div align = "center">
-  <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
-  <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">
- </div>
- <div align = "center"> 
-</div>
+<h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cerpion&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Cerpion's GitHub Stats" />
+</p>
 
 
+---
 
+### About Me
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- Game Developer focused on gameplay programming with C#. 
+- Passionate about writing clean, maintainable, and scalable code using SOLID principles and software architecture. 
+- Currently developing my first commercial indie game while continuously improving my skills in AI, shaders, rendering, and game systems.  
 
-- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
-- 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
-- 👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
-- 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
-- 💬 Ask me about Python! 🐍
-- 📫 How to reach me: <a href ="mailto:bector.vinayak02@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
