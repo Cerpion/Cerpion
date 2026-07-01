@@ -1,7 +1,7 @@
-<h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
+<h1 align="center">Welcome!! ᕙ(`▿´)ᕗ</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerpion&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Cerpion's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Cerpion&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Cerpion's GitHub Stats">
 </p>
 
 
