@@ -1,8 +1,9 @@
 <h1 align="center">Welcome!! ᕙ(`▿´)ᕗ</h1>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Cerpion&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Cerpion's GitHub Stats">
+<p align='center'>
+ <img src="https://github-readme-streak-stats.cerpion.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
+
 
 
 ---
